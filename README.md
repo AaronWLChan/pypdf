@@ -19,7 +19,7 @@ python pypdf.py ma 'PATH_TO_PDF,PATH_TO_PDF2...' 'DESTINATION_PATH'
 
 
 ```python
-python pypdf.py m 'a.pdf,b.pdf' 'c.pdf'
+python pypdf.py ma 'a.pdf,b.pdf' 'c.pdf'
 ```
 
 ### Rotate Page
